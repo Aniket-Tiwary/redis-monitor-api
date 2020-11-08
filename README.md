@@ -2,6 +2,11 @@
 
 A redis monitor API built using node js and sqlite3 DB
 
+## API deployed At:
+  https://redis-monitor-api.herokuapp.com/
+## React app deployed at:
+  https://redis-monitor.netlify.app/
+
 ## Run Locally
 
 To run the node server locally, go to any directory, open terminal and run the following commands:
@@ -29,3 +34,5 @@ The popular SQL DB **sqlite** is used with **Sequelize** ORM for interacting wit
 ![RedisInfo model](https://github.com/Aniket-Tiwary/redis-monitor-api/blob/master/imgs/schema.png)
 
 ![Directory Structure](https://github.com/Aniket-Tiwary/redis-monitor-api/blob/master/imgs/file_dicectory.png)
+
+
