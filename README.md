@@ -24,3 +24,8 @@ The API for this app is built with **Node.js**. Its a light-weight server built 
 ### Database
 
 The popular SQL DB **sqlite** is used with **Sequelize** ORM for interacting with the DB. The database contains only one model namely **RedisInfo** which contains columns like MD5,host,port,password and add_time.
+
+
+![RedisInfo model](https://github.com/Aniket-Tiwary/redis-monitor-api/blob/master/imgs/schema.png)
+
+![Directory Structure](https://github.com/Aniket-Tiwary/redis-monitor-api/blob/master/imgs/file_dicectory.png)
